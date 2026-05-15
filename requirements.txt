@@ -1,0 +1,10 @@
+--index-url https://download.pytorch.org/whl/cu121
+
+torch
+torchvision
+torchaudio
+matplotlib
+scikit-learn
+ipykernel
+tifffile
+Pillow
